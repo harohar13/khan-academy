@@ -1,2 +1,2 @@
 # khan-academy
-A khan academy layout using html and css
+A khan academy website  layout using html and css
